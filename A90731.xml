@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plague at Westminster. Or, An order for the visitation of a sick Parliament, grievously troubled with a new disease, called the consumption of their Members. The persons visited are, The [brace] Earle of Suffolke, Earle of Lincolne, Earle of Middlesex, Lord Hunsdon, Lord Barkly, L. Willowby of Parham, Lord Maynard, Sir John Maynard, Master Glyn, Recorder of London. [brace] With a forme of prayer, and other rights and ceremonies to be used for their recovery. Strictly commanded to be used in all cathedrals, churches, chappels, congregations, throughout his Majesties three kingdoms, of England, Scotland, and Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90731</idno><idno type="EEBO-CITATION">99872250</idno>
+  <idno type="VID">160522</idno>
+  <idno type="EEBO-PROQUEST">2240939629</idno>
+  
+            <idno type="STC">Wing P2335</idno>
+            <idno type="STC">Thomason E407_33</idno>
+            <idno type="STC">ESTC R30085</idno>
+            <idno type="PROQUEST">99872250</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872250e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160522)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plague at Westminster. Or, An order for the visitation of a sick Parliament, grievously troubled with a new disease, called the consumption of their Members. The persons visited are, The [brace] Earle of Suffolke, Earle of Lincolne, Earle of Middlesex, Lord Hunsdon, Lord Barkly, L. Willowby of Parham, Lord Maynard, Sir John Maynard, Master Glyn, Recorder of London. [brace] With a forme of prayer, and other rights and ceremonies to be used for their recovery. Strictly commanded to be used in all cathedrals, churches, chappels, congregations, throughout his Majesties three kingdoms, of England, Scotland, and Ireland.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for V.V.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Earle of Suffolke, .. Barkly," and "L. Willowby .. Recorder of London." are bracketed together in parallel columns on title page.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signature: A⁴.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160522:1"/>
+            <p>THE PLAGUE AT WESTMINSTER. OR, An order for the Visitation of a sick <hi>PARLIAMENT,</hi> Grievously troubled with a new <hi>Disease,</hi> called the Consumption of their Members.</p>
+            <p>
+               <hi>The persons visited are,</hi> The
+<list>
+                  <item>Earle of <hi>Suffolke,</hi>
+                  </item>
+                  <item>Earle of <hi>Lincolne,</hi>
+                  </item>
+                  <item>Earle of <hi>Middlesex,</hi>
+                  </item>
+                  <item>Lord <hi>Hunsdon,</hi>
+                  </item>
+                  <item>Lord <hi>Barkly,</hi>
+                  </item>
+                  <item>L. <hi>Willowby</hi> of <hi>Parham,</hi>
+                  </item>
+                  <item>Lord <hi>Maynard,</hi>
+                  </item>
+                  <item>Sir <hi>John Maynard,</hi>
+                  </item>
+                  <item>Master <hi>Glyn,</hi> Recorder of <hi>London.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>With a forme of Prayer, and other Rights and Ceremonies to be used for their recovery.</hi>
+            </p>
+            <p>Strictly commanded to be used in all Cathedrals, Churches, Chappels, Congregations, throughout his Majesties three Kingdoms, of <hi>England, Scotland,</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Printed for <hi>V. V.</hi> in the year, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160522:2"/>
+            <pb facs="tcp:160522:2"/>
+            <head>The order of VISITATION to a sick <hi>PARLIAMENT.</hi>
+            </head>
+            <div type="part">
+               <head>Let all the long-abused people of this Kingdom, speedily repair for the remedy of all their agrievances, to the <hi>High-Place</hi> at <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> and so soon as entred in to the <hi>Lords House,</hi> let them reve<g ref="char:EOLhyphen"/>rendly kneel down upon their bare knees, and say this new Prayer and Exhortation following.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Almighty and everlasting Lords, we acknowledge and confesse from the bottome of our hearts, that you have most justly plagued us these full seven years for our ma<g ref="char:EOLhyphen"/>nifold sins and iniquities. Forasmuch as we have not rebelled against you, but against the King our most gra<g ref="char:EOLhyphen"/>cious Lord and Governour, to the abundant sorrow of our relenting hearts, to whose empty Chaire we now bow in all reverence, in to<g ref="char:EOLhyphen"/>ken of our duty and obedience. For we now too well (O LORDS) understand that we have grievously sinned, which hath made your Honours give us up a spoyle unto Robbers, <hi>viz.</hi> your <hi>Committees, Sequestrators, Excise-men</hi> and <hi>Pursuivants;</hi> besides, your severall instruments of torments, distinguished by the various names of Col<g ref="char:EOLhyphen"/>lonels, Lieutenant Colonels, Majors, Captains, Quartermasters, and a certain sort of putredinous vermin that you use to line hedges withal, vulgarly called; <hi>Dragoons, Troopers,</hi> and the like, O Lords, these be<g ref="char:EOLhyphen"/>sides your continuall Taxes, Collections, Assesments, and the like; a burthen that breaks our backs and very hearts, which continually fol<g ref="char:EOLhyphen"/>low one on the neck of another, besides your excises on our very flesh and apparell, with every particular belonging to our trades and live<g ref="char:EOLhyphen"/>lyhoods: Our wives, our daughters, our sons, our houses, our beds, our apparell, our horses, our hey, our beeves, our mut<g ref="char:EOLhyphen"/>tons, our lambs, our pigs, our geese, our capons, and the rest of our goods are forced from us, upon free quarter as they call it: Had wee
+<pb facs="tcp:160522:3"/>poore wretched and languishing wretches, mounting to the number of millions of millions, being sufficiently humbled by all these plagues, and punishments (cry to your honours for redresse) besides the large portion of our blouds which from the earth cries unto your honours, even as <hi>Abels</hi> did to heaven, so we to you <hi>Mighty Lords,</hi> we there<g ref="char:EOLhyphen"/>fore humbly pray and beseech you, that your honours would be gra<g ref="char:EOLhyphen"/>ciously pleased (in your omnipotent power) to raise to life again but halfe a doozen thousand poor widows their deer husbands and ma<g ref="char:EOLhyphen"/>ny fatherlesse children now in a languishing condition, will for ever magnifie your Honours for the same, or else your Honours must ex<g ref="char:EOLhyphen"/>expect the cry of the Widow to Heaven against you, the Curse of the Fatherlesse, and the Cry of the Earth, which already begins to vomit up that <hi>blnud</hi> in your <hi>faces,</hi> which so rebelliously and unchristianly you have stain'd hers withall; shee hath yet been a place of <hi>pleasure</hi> unto you, yielding no contagious ayre to infect you with these <hi>consu<g ref="char:EOLhyphen"/>ming diseases,</hi> that now reign amongst your Honours, besides so many sorrows, distractions, disorders or passions, that visit your Honours consciences; all earthly creatures have been obedient unto you <hi>mighty Lords.</hi> Finally, she hath yielded all things to your contentment, and nothing to your annoyance: Wee beseech you therefore consider the present miseries of our bodies, as hunger, thirst, nakednesse, want of our limbes, deformities, sicknesse and mortality; the troubles of our mindes, as fancies, fears, perplexities, anguishes, and other imperfe<g ref="char:EOLhyphen"/>ctions: likewise the generall scourges that are amongst us, as Plagues, Wars, and a 1000 other hazardous calamities: Look but into our Ho<g ref="char:EOLhyphen"/>spitals, we beseech you, and see <hi>Lazars, Cancers, Fistuloes, Ulcers,</hi> and <hi>Rottings,</hi> what <hi>Wolfs, Sores,</hi> and <hi>festred Carbuncles,</hi> with <hi>Frenzies, Palsies, Lethargies, falling Sicknesses, and Lunaries.</hi> On the other<g ref="char:EOLhyphen"/>side (we beseech you) to consider the infirmities of our minds, the furious rages, envies, rancours, and corasives, the unplacable sorrows and desperate passions, the continuall hell, torments, and remorse of conscience (for our late forced rebellion against our King,) and infinite other spritish fits and agonies you have brought upon us. Consider how you have made us incurre the heavy displeasure of the most just and Christian Prince, that ever reigned in this Kingdom; the malice and enmity of our equals, the contempt, ignominy and reproach of all Nations; the continuall mocks and scoffs we receive of our infe<g ref="char:EOLhyphen"/>riours,
+<pb facs="tcp:160522:3"/>the fraud and treadhery of all sorts and degrees; our frequent molestations by plunderings, sequestrations, losse of goods, limbes, liberties, friends, wives and children, consider what intolerable usage hath been to divers people since the beginning of these unnaturall wars, prosecuted by the rage and fury of you who would be called Christians, but indeed, the worst of <hi>Tyrants:</hi> What spoile of our goods, shedding of our blouds, oppressing of innocents, persecution of godly and orthodox Ministers, <hi>that the World was not worthy of,</hi> as re<g ref="char:EOLhyphen"/>verend <hi>Armagh, Westfield, Featly, Shute,</hi> and divers others learned and holy men; in whose places, what a litter of Foxes you have put into Gods Vineyard, who root up the tender Vines thereof; a crew of such Vipers, that are not worth so much as the naming? What de<g ref="char:EOLhyphen"/>flowring of Virgins, abusing of Matrons, compulsion unto wicked<g ref="char:EOLhyphen"/>nesse and rebellion, and terrifying from all vertue and Christian obe<g ref="char:EOLhyphen"/>dience? What inconveniences and mysteries have ensued by these un<g ref="char:EOLhyphen"/>naturall and bloudy Wars? What alteration of Estates, and Reli<g ref="char:EOLhyphen"/>gion, subversion of three flourishing Kingdoms, slaughtering of his Majesties Subjects, destroying of Cities, and confusion of all Order, that it is almost incredible that so many and so strange calamities could befall so happy a people as wee lately were in so short a space. We humbly beseech you to consider these our just plaints, and speedily let us enjoy our King, our Religion, our Laws, our just Liberties and Estates, lest the anger of the Lord take harnesse, and arm all the crea<g ref="char:EOLhyphen"/>tures to the revenge of his enemies, he shall put on justice for his brest<g ref="char:EOLhyphen"/>plate, and shall take for his Helmet certain judgement. Hee shall take Equity as an impregnable Buckler, hee shall sharpen hid dreadfull wrath into a Spear, and the World shall fight with him against such sencelesse persons. His throws of thunderbolts shall go directly; and shall be driven as it were from a wel-bended Bow, and shall hit at a certain place. Against them shall the Spirit of Might stand, and like a Whirl-winde shall divide them, and shall bring all the land of their iniquity, to a Desert, and shall overthrow the seats of the mighty.</p>
+               <p>These are shrew'd <hi>Items,</hi> High and Mighty Lords, and may cause you peach one another still, and charge thorow and thorow, as well as round: yet the silly Commons will hardly be gull'd so: they hope to cover their wits again; and will now listen to his Majesty; as once they might have done, and have preserv'd their now lost estates, the
+<pb facs="tcp:160522:4"/>twentieth part divided amongst so many sharers, comes but to a very little; <hi>Waller's</hi> might come to some twelve Butter-firkins full of Gold? <hi>John Pym</hi> that lowsie Squire might have been a second <hi>Croe<g ref="char:EOLhyphen"/>sus</hi> and had he liv'd, and <hi>Charles</hi> his son a very <hi>Dives,</hi> in spight of <hi>Lincolnes</hi> Inne Pump; but he fears no preaching now, nor <hi>Hambden,</hi> nor <hi>Strowd,</hi> nor <hi>Stupleton</hi> neither; their <hi>Charge</hi> will hardly be drawn up till Dooms day ith' after-noon, and then the City shall re<g ref="char:EOLhyphen"/>ceive their Debts on the Publique Faith, and learn more wit: by which time Plundering will be out of request, and Sir <hi>Pol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tick-wood<g ref="char:EOLhyphen"/>bees</hi> those great Statists, that draw all into their own Coffers; and cry with the Devill, <hi>All's Mine,</hi> will then find to their costs, that their Accompts are already cast up, and their Reckoning then upon the paying: in the mean-time, <hi>Whilst Thieves fall out, true folks may come by their goods.</hi> Therefore, as the Psalmist sayth, <hi>Gladius ipsorumi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tret in corda corum.</hi> Let their own Swords enter into their own hearts; and let their destruction arise from themselves; let them dig their own graves; let them (as they have already) cut off those Anchors that should preserve themselves from shipwrack; let them like enraged dogs break their teeth on that stone that is flung at them, not so much as looking at the hand that flings it; whilst wee miserable wretches in this vassallage and servility are daily oppressed with so many un<g ref="char:EOLhyphen"/>cessant afflictions, worse then an <hi>Egyptian bondage,</hi> wee may cry out with the <hi>Israelites, Ingemiscen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es propter opera vociferari;</hi> Lamen<g ref="char:EOLhyphen"/>ting out intollerable Prayers, Cry out unto God; from whom (and not from your <hi>Pharaoh</hi>-like Honours) we must expect deliverance. <hi>AMEN.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:160522:4"/>
+               <head>Then let the parties if they finde no redresse, turn unto the House of Commons, and say as followeth.</head>
+               <p>WE humbly beseech you the Knights and Burgesses chosen▪ and put in trust by your severall Countreys, to redresse our grie<g ref="char:EOLhyphen"/>vances; (not to make us new grievances, to cure our <hi>Mala<g ref="char:EOLhyphen"/>dies,</hi> not in a desperate madnesse, to kill us in stead of <hi>curing us</hi>) to keep us from robbing, not to rob us your selves. That you would with the eye of compassion, look upon our manifold M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>series, before reci<g ref="char:EOLhyphen"/>ted, in supplication to the Lords. Wee must acknowledge and con<g ref="char:EOLhyphen"/>fesse that you have done the part of a <hi>body without a Head;</hi> and taken great pains, though but to little purpose in pulling down Crosses off the Churches and Steeples, and breaking Glasse Windows, whilst ye have erected greater Crosses in our <hi>Religion</hi> and Estates, that makes (at this time) the glased Windows of our eyes to over-flow. You taken mickle pains, in making Votes, Orders and Ordinances, yet we never the better, but rather worse and worse, whilst you are <hi>divi<g ref="char:EOLhyphen"/>ded</hi> amongst your selves, now you have <hi>divided</hi> our Inheritance; and divided the King from his Royall <hi>Spouse, Children,</hi> and <hi>P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ment;</hi> and would have divided him from his <hi>Honour,</hi> and <hi>Coronation Oath;</hi> divided the Souls from our bodies, as well as our shoes; divided Re<g ref="char:EOLhyphen"/>ligion into a thousand Sects, Schismes, Heresies, and Blasphemies. E<g ref="char:EOLhyphen"/>ven against the Persons in the Sacred Trinity; And now will you leave us in this myst of Errours and Calamities: &amp; every one take shipping, as lately <hi>Waller, Staplet<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, Nichols,</hi> and many others, which increaseth our feares, that you will give but an ill account of so many of our lives, so much of our estates, <hi>&amp;c. &amp;c. &amp;c.</hi> you may guesse what I mean. You may give losers leave (through lamentable expe<g ref="char:EOLhyphen"/>rience) to speak, though I believe to little purpose, therefore, <hi>vale,</hi> our trust is in the Lord, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:160522:5"/>
+               <head>Here let all the people sing Psal. <hi>43. Judge and revenge, &amp;c.</hi> And then facing about to <hi>Henry</hi> the Sevenths Chappell, Let all the people rehearse the Articles of their new Reformed Faith; And after say as followeth.</head>
+               <p>MOst holy Fathers, whether Universall, Nationall, Provinciall, Consistoriall, Classicall Synodians, whose learned Consultati<g ref="char:EOLhyphen"/>ons, pious Debates, sacred Conclusions, spirituall Decrees, Evangeli<g ref="char:EOLhyphen"/>call Counsels, infallible Divinity hath lost us so many thousand pounds for the space of almost these five years, to compose the two Tables of the <hi>Law,</hi> the <hi>Gospel,</hi> the <hi>Ordinance</hi> for <hi>Tithes,</hi> and the <hi>Directory;</hi> Wee magnifie your <hi>Sanctity,</hi> wee adore your holy <hi>Reformation,</hi> and highly commend your unerring <hi>Spirits,</hi> for the great pains you have taken in your severall <hi>Sciences</hi> of <hi>Equivocations, Mentall Reser<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ati<g ref="char:EOLhyphen"/>ons,</hi> false <hi>Glosses, Comments, Paraphrases, Expositions, Opi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ions,</hi> and <hi>Judgements,</hi> that for a long time have <hi>cheated</hi> and <hi>deluded</hi> us; for your pious <hi>Zeal,</hi> and affection for the <hi>Cause,</hi> in setting us on to <hi>kill</hi> one another, and freely to venter <hi>all, all</hi> but the <hi>Tenths, Tythes, Offe<g ref="char:EOLhyphen"/>rings</hi> and <hi>Oblations;</hi> those are yours <hi>jure Divino:</hi> besides <hi>all</hi> the sat <hi>Benifices</hi> and <hi>goodly Revenues</hi> that belong vnto you, besides the foure <hi>shillings</hi> a day, and the <hi>Fees</hi> of your <hi>Classicall Courts,</hi> and the ten <hi>Groats</hi> for drinking a <hi>Sundays</hi>—Wee beseech ye by <hi>all these,</hi> pray a<g ref="char:EOLhyphen"/>gainst the plaguy diseases your <hi>Hypocrisie</hi> hath brought upon the two <hi>Houses of Parltament,</hi> and the whole <hi>Kingdom</hi> by <hi>Heresie, Poverty, Impeachments, Charges, Banishments</hi> and the like. <hi>AMEN.</hi>
+               </p>
+               <p>
+                  <hi>Then let the people sing the</hi> 41 <hi>Psalme and so depart.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
